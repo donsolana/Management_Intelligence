@@ -15,8 +15,7 @@ library("lpSolve")
 library("readr")
 library("shinythemes")
 ########UI#######
-vchoices <- 1:ncol(mtcars)
-names(vchoices) <- names(mtcars)
+
 ui <- tagList(
                 navbarPage(
                  theme =  shinytheme(theme = "slate"),
