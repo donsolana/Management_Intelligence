@@ -9,6 +9,11 @@ A prototype for an analytical tool to aid management decision-making. It contain
 ## Status
 At 30/7/2021 I have started working on a new iteration of this app. 
 
+## References and Packages
+1. Linear Programing solver : [**lpsolve** package](http://web.mit.edu/lpsolve/doc/)
+2. Network Graph and Gantt Chart: [**projmangr** package](https://github.com/bgreenawald/projmanr)
+3. Monte Carlo simulation **Base R**
+
 ## disclaimer:
 * This app accompanied an academic paper submitted by Dolu Solana for completion of his undergraduate degree.
 * The app is designed to showcase the possibilities of Quantitative analysis to Management decision making.
