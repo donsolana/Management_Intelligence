@@ -16,6 +16,6 @@ At 30/7/2021 I have started working on a new iteration of this app.
 
 ## disclaimer:
 * This app accompanied an academic paper submitted by Dolu Solana for completion of his undergraduate degree.
-* The app is designed to showcase the possibilities of Quantitative analysis to Management decision making.
+* The app is designed to showcase the possibilities of Quantitative analysis in Management decision making.
 
 
